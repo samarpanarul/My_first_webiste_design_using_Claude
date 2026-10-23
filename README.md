@@ -1,6 +1,6 @@
-## Building a restaurant website, step by step
+## The first website project
 
-I'm building a website for a local café in Nottingham, and turning it into a template I can set up for other restaurants. This is how it came together.
+**Building a restaurant website, step by step.** I'm building a website for a local café in Nottingham, and turning it into a template I can set up for other restaurants. This is how it came together.
 
 <p>
   <img src="images/home.jpg" alt="The café's home page on a computer, with a full breakfast photo and opening hours" width="68%">
